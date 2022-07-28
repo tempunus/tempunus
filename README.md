@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Mizael S R Machado (Tempunus)
 
 - 🔭 Hoje eu estou me especializando em Back-End
-- 🌱 Tenho estudado as linguagens: Node.JS, APIS, MongoDB, REACT e Python 
+- 🌱 Tenho estudado as linguagens: Node.JS, MongoDB, REACT e Python 
 - 😄 Pronomes: ele/dele
 
 <div align="center">
